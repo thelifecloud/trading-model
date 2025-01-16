@@ -26,7 +26,7 @@ This repository contains a modular, tested, and fully functional predictive trad
     - Fully tested with pytest to ensure functionality across all modules.
 
 #### Project Structure
-'''
+```
 trading_model/
 ├── data/                     # Contains input CSV files (e.g., Binance_BTCUSDT_1h.csv, Binance_BTCUSDT_d.csv).
 ├── notebooks/                # Jupyter notebooks for experimentation and analysis.
@@ -46,7 +46,7 @@ trading_model/
 │   ├── test_visualization.py
 ├── requirements.txt          # Python dependencies for the project.
 ├── README.md                 # Project overview (you are here).
-'''
+```
 
 ### Setup Instructions
 #### Prerequisites
